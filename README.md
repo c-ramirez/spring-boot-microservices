@@ -1,2 +1,2 @@
 # spring-boot-microservices
-example of an microservices environment
+example of a microservices environment
